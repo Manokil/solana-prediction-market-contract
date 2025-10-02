@@ -12,11 +12,11 @@ A decentralized prediction market platform built on Solana blockchain, inspired 
 
 ## Contact
 
-If you wanna build prediction market project like this, plz contact here: [Telegram](https://t.me/shiny0103) | [Twitter](https://x.com/0xTan1319)
+If you wanna build prediction market project like this, plz contact here: [Telegram](https://t.me/Rust0x_726) | [Twitter](https://x.com/0xManokil)
 
 ## Relation project
 
-- [Frontedn & Backend](https://github.com/0xTan1319/prediction-market-fe-be-solana)
+- [Frontedn & Backend](https://github.com/Manokil/prediction-market-fe-be-solana)
 
 ## Architecture
 
